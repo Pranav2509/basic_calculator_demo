@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Basic Calculator</string>
+    <string name="basic_calculator">Basic Calculator Demo</string>
+    <string name="enter_numer_1">Enter Number : 1</string>
+    <string name="enter_numer_2">Enter number : 2</string>
+    <string name="result">Result</string>
+</resources>
